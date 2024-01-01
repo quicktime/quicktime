@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Luminae
-- <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"/>
+<img src="https://storage.googleapis.com/cms-storage-bucket/64d67700f8293a9dc827.svg"/>
+<img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"/>
 
 ![quicktime's GitHub stats](https://github-readme-stats-seven-psi-53.vercel.app/api?username=quicktime&show_icons=true&theme=radical)
 
