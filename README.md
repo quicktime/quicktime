@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![quicktime's GitHub stats](https://github-readme-stats-seven-psi-53.vercel.app/api?username=quicktime&show_icons=true&theme=radical)
+
 <!--
 **quicktime/quicktime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
