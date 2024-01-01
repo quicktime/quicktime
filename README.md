@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Luminae
-
+- <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg"/>
 
 ![quicktime's GitHub stats](https://github-readme-stats-seven-psi-53.vercel.app/api?username=quicktime&show_icons=true&theme=radical)
-![quicktime's Language stats](https://github-readme-stats-seven-psi-53.vercel.app/api/top-langs?username=quicktime&show_icons=true&theme=radical)
 
 <!--
 **quicktime/quicktime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
