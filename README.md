@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Luminae
 <p>
 <img height=96 src="https://storage.googleapis.com/cms-storage-bucket/64d67700f8293a9dc827.svg"/>
-<img height=96 src="https://www.rust-lang.org/logos/rust-logo-blk.svg"/>
+<img height=96 src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
 <img height=96 src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"/>
 </p>
 
